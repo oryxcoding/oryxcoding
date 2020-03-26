@@ -1,2 +1,5 @@
 # oryxcoding
-Rust plugin: only with permssion can build
+Only with permission can build on the server.
+
+## Permssion
+nobuilding.allow
